@@ -4,9 +4,9 @@ permalink: /
 title: "SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses"
 presentation: "AAAI 2025"
 authors:
-  - Sooyoung Choi*
-  - Sungyong Park*
-  - Heewon Kim
+  - 백선희*
+  - 손우혁*
+  - 황애라
 affiliations:
   - Soongsil University
 paper: "https://ojs.aaai.org/index.php/AAAI/article/view/32257"
