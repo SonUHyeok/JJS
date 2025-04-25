@@ -1,7 +1,7 @@
 ---
 layout: project_page
 permalink: /
-title: "SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses"
+title: "METRO:BOT"
 presentation: "AAAI 2025"
 authors:
   - 백선희*
