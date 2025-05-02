@@ -32,8 +32,11 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 ## 게임 소개 
 웹소설로 집필 예정이었지만 무산된 작품을 게임으로 되살려보자는 이야기에서 시작된 프로젝트였습니다. 주인공 '천일'이 기억을 잃고 유일한 기억인 '소녀'를 찾기 위해 떠나는 여정을 담았습니다. 주인공이 향하는 길목에서 제공되는 선택지에 따라 다양한 엔딩이 기다리고 있으며, 도트 그래픽으로 만든 인게임 삽화와 다양한 전투는 게임을 더욱 몰입감 있게 즐길 수 있도록 합니다.
 
-### Patchify images (512x512)
-For efficient training and learning, we provide patchified images. 
+## 게임 설명
+세부적인 게임 설명을 이어나가보겠습니다.
+### 메인 홈 화면
+홈 화면에서 좌측에는 메트로봇 로고와 우측에는 주인공 천일의 모습을 아스키아트로 변환한 이미지가 있습니다.
+그리고 컨티뉴, 뉴 게임, 옵션 등 게임 기능을 할 수 있는 버튼들이 배치되어있고, 상단에는 플레이어가 시나리오의 특정 부분으로 바로 넘어갈 수 있도록 검색창을 만들었습니다.
 <div class="buttons" style="text-align: center; margin-top: 1em;">
   <a class="button is-primary" href="https://drive.google.com/file/d/1es3rPo5Y9O96EjDVXanUY8NpaRprWH-h/view?usp=sharing" target="_blank">Train</a>
   <a class="button is-primary" href="https://drive.google.com/file/d/1u5-MDauO3XolXsU6eOARwlXo7SnpLwqA/view?usp=sharing" target="_blank">Validation</a>
