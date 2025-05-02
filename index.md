@@ -29,7 +29,7 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 
 <!-- Dataset Download Buttons -->
 
-## SIDL Dataset 
+## 게임 소개 
 We provide 80% of the scenes for training and learning. The remaining scenes are used for online evaluation.
 ### Patchify images (512x512)
 For efficient training and learning, we provide patchified images. 
