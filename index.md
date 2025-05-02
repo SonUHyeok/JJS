@@ -12,7 +12,7 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 
 <body>
   <hr>
-  <img src = "images/Ex01.jpg" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/1.png" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 
 
