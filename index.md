@@ -1,14 +1,13 @@
 ---
-layout: project_page
-permalink: /
-presentation: "AAAI 2025"
-authors:
+Genre: Game
+TEAM: 전지적 졸업 시점
+Authors:
   - 백선희*
   - 손우혁*
   - 황애라
-affiliations:
+Affiliations:
   - Soongsil University
-paper: "https://ojs.aaai.org/index.php/AAAI/article/view/32257"
+Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1"
 video: "https://youtu.be/5nSJh-IPWd0"
 code: "https://github.com/sidl-benchmark/sidl-benchmark.github.io"
 data: "https://github.com/your-repo/dataset"
