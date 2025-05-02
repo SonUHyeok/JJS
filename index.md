@@ -44,10 +44,7 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 </div>
 
 ### 인게임 삽화
-<div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="https://drive.google.com/file/d/1s_gUw1DCqokihl3YtO3lu9_GnLZaSElI/view?usp=sharing" target="_blank">Train</a>
-  <a class="button is-primary" href="https://drive.google.com/file/d/1OHxG8Jh0goKIhkJTe9NXZ6uIuD5qVaNH/view?usp=sharing" target="_blank">Validation</a>
-</div>
+백선희 팀원이 직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높였습니다
 
 ### 전투 장면
 We also provide RAW image files (DNG) along with metadata.
