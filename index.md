@@ -2,8 +2,8 @@
 Genre: Game
 TEAM: 전지적 졸업 시점
 Authors:
-  - 백선희*
-  - 손우혁*
+  - 백선희
+  - 손우혁
   - 황애라
 Affiliations:
   - Soongsil University
