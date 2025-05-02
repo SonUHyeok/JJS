@@ -8,9 +8,6 @@ Authors:
 Affiliations:
   - Soongsil University
 Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1"
-video: "https://youtu.be/5nSJh-IPWd0"
-code: "https://github.com/sidl-benchmark/sidl-benchmark.github.io"
-data: "https://github.com/your-repo/dataset"
 ---
 
 <body>
