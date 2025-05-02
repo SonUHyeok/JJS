@@ -19,7 +19,7 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>기획 의도</h2>
+    <h2>INTRO</h2>
     <div class="content has-text-justified">
       2034년, 핵전쟁의 불길이 서울을 삼켰습니다. 폐허가 된 여의도. 살아남은 인간들은 방사능을 피해, 안드로이드들의 힘을 빌려 지하 깊숙이 '쉘터'라 불리는 거대 도시를 구축했습니다. 그로부터 오랜 시간이 흐른 어느 날, 한 안드로이드가 눈을 뜹니다. 기억이라고는 자신을 애타게 부르던 소녀의 모습 뿐. 소녀를 찾아 헤매는 여정이 시작됩니다. 이 모험의 끝에 당신은 어떤 진실과 마주하게 될까요? 텍스트 어드벤처와 도트 그래픽 전투가 어우러진, 선택에 따라 운명이 달라지는 모바일 멀티엔딩 게임. METRO:BOT — 지금 바로 플레이하세요. (QR코드 스캔 / 안드로이드용 / 네트워크 연결 필요)
     </div>
