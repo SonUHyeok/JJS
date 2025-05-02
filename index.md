@@ -65,18 +65,3 @@ Click the button above to evaluate your model on the SIDL benchmark.
 
 ### ISP pipeline
 Coming soon
-
-
-### Citation
-<pre><code class="language-bibtex">
-@inproceedings{choi2025sidl,
-  title     = {SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses},
-  author    = {Choi, Sooyoung and Park, Sungyong and Kim, Heewon},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume    = {39},
-  number    = {3},
-  pages     = {2545--2554},
-  year      = {2025}
-}
-</code></pre>
-
