@@ -1,7 +1,6 @@
 ---
 layout: project_page
 permalink: /
-title: "METRO:BOT"
 presentation: "AAAI 2025"
 authors:
   - 백선희*
