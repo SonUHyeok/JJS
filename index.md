@@ -31,6 +31,7 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 
 ## 게임 소개 
 웹소설로 집필 예정이었지만 무산된 작품을 게임으로 되살려보자는 이야기에서 시작된 프로젝트였습니다. 주인공 '천일'이 기억을 잃고 유일한 기억인 '소녀'를 찾기 위해 떠나는 여정을 담았습니다. 주인공이 향하는 길목에서 제공되는 선택지에 따라 다양한 엔딩이 기다리고 있으며, 도트 그래픽으로 만든 인게임 삽화와 다양한 전투는 게임을 더욱 몰입감 있게 즐길 수 있도록 합니다.
+
 ### Patchify images (512x512)
 For efficient training and learning, we provide patchified images. 
 <div class="buttons" style="text-align: center; margin-top: 1em;">
