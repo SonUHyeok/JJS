@@ -1,6 +1,6 @@
 ---
 Genre: Game
-TEAM: 전지적 졸업 시점
+TEAM: 전졸시 (전지적 졸업 시점)
 Authors:
   - 백선희
   - 손우혁
