@@ -62,8 +62,8 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 <body>
   <hr>
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
-  <img src="images/6.png" style="width: 45%;" alt="Image 6">
-  <img src="images/7.png" style="width: 45%;" alt="Image 7">
+  <img src="images/6.png" style="width: 48%;" alt="Image 6">
+  <img src="images/7.png" style="width: 48%;" alt="Image 7">
 </div>
 </body>
 <br />
