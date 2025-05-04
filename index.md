@@ -47,9 +47,11 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
 <body>
   <hr>
-  <img src = "images/3.png" width="300", style="display: block; margin: auto;"> |
-  <img src = "images/4.png" width="300", style="display: block; margin: auto;"> |
-  <img src = "images/5.png" width="300", style="display: block; margin: auto;">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
+    <img src="images/3.png" width="300" alt="Image 3">
+    <img src="images/4.png" width="300" alt="Image 4">
+    <img src="images/5.png" width="300" alt="Image 5">
+  </div>
 </body>
 
 <br />
