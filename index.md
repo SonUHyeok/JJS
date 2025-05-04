@@ -1,13 +1,7 @@
 ---
-Genre: Game
-TEAM: 전졸시 (전지적 졸업 시점)
-Authors:
-  - 백선희
-  - 손우혁
-  - 황애라
-Affiliations:
-  - Soongsil University
-Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1"
+| Genre | TEAM | Authors | Affiliations | Figma |
+| --- | --- | --- | --- | --- |
+| Game | 전졸시 (전지적 졸업 시점) | 백선희 × 손우혁 × 황애라 | Soongsil University | "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1" |
 ---
 
 <body>
