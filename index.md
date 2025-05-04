@@ -1,7 +1,7 @@
 ## 작품 및 팀 정보
   | Genre | TEAM | Authors | Affiliations | Figma |
   | --- | --- | --- | --- | --- |
-  | Game | 전졸시 (전지적 졸업 시점) | 백선희 × 손우혁 × 황애라 | Soongsil University | [Figma 링크](https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1) |
+  | Game | 전졸시 (전지적 졸업 시점) | 백선희 × 손우혁 × 황애라 | Soongsil University | [METRO:BOT UI Design](https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1) |
 
 <body>
   <hr>
