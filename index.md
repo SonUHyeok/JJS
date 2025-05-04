@@ -32,19 +32,20 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 <!-- Dataset Download Buttons -->
 
 ## 게임 소개 
-웹소설로 집필 예정이었지만 무산된 작품을 게임으로 되살려보자는 이야기에서 시작된 프로젝트였습니다. 주인공 '천일'이 기억을 잃고 유일한 기억인 '소녀'를 찾기 위해 떠나는 여정을 담았습니다. 주인공이 향하는 길목에서 제공되는 선택지에 따라 다양한 엔딩이 기다리고 있으며, 도트 그래픽으로 만든 인게임 삽화와 다양한 전투는 게임을 더욱 몰입감 있게 즐길 수 있도록 합니다.
+웹소설로 집필 예정이었지만 무산된 작품을 게임으로 되살려보자는 이야기에서 시작된 프로젝트로 주인공 '천일'이 기억을 잃고 유일한 기억인 '소녀'를 찾기 위해 떠나는 여정을 담았습니다. 주인공이 향하는 길목에서 제공되는 선택지에 따라 다양한 엔딩이 기다리고 있으며, 도트 그래픽으로 만든 인게임 삽화와 다양한 전투는 게임을 더욱 몰입감 있게 즐길 수 있습니다.
 
 <br />
 
-## 게임 설명
-### 메인 홈 화면
+## About Game
+### 메인 홈
 홈 화면에서 좌측에는 메트로봇 로고와 우측에는 주인공 천일의 모습을 아스키아트로 변환한 이미지가 있습니다.
 그리고 컨티뉴, 뉴 게임, 옵션 등 게임 기능을 할 수 있는 버튼들이 배치되어있고, 상단에는 플레이어가 시나리오의 특정 부분으로 바로 넘어갈 수 있도록 검색창을 만들었습니다.
 
 <br />
 
-### 인게임 삽화
-직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
+### 인게임 삽화, 전투 게임 그리고 다양한 엔딩
+- 직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
+- 당신의 선택에 따라 달라지는 전투 게임 그리고 다양한 엔딩
 <body>
   <hr>
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
@@ -56,25 +57,20 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 
 <br />
 
-### 전투 장면
-We also provide RAW image files (DNG) along with metadata.
-<div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="https://drive.google.com/file/d/1k78IIsUl2eYPnPvWkBampU0qlMrW4F-u/view?usp=sharing" target="_blank">DNG images</a>
-  <a class="button is-primary" href="https://drive.google.com/file/d/1lAab5F3jjCByY4OEvGSAfykyAqp2wfTi/view?usp=sharing" target="_blank">Metadata</a>
-</div>
-
-<br />
-
-### 애니메이션 디자인  
-<div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="http://203.253.25.170:8080" target="_blank">Click here to launch evaluation</a>
-</div>  
-Click the button above to evaluate your model on the SIDL benchmark.
+## About Animation
+### 애니메이션 디자인
+<body>
+  <hr>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
+    <img src="images/6.png" width="50%">
+    <img src="images/7.png" width="50%">
+  </div>
+</body>
 <br />
 
 <br />
 
-### 게임 다운로드 QR
+### 게임 QR 다운로드
 🤖 METRO:BOT을 미리 즐기고 싶다면? 지금 다운로드 받으세요! 🤖
 > 🌟 안드로이드 기기 한정, 네트워크 연결 필수 🌟
 <body>
