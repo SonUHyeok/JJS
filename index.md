@@ -52,6 +52,7 @@
 
 ## About Animation
 ### 애니메이션 디자인
+주인공 천일과 그의 기억 속 소녀에 대한 잊혀진 진실, 뮤직 애니메이션으로 재탄생! 당신은 그 진실을 마주할 준비가 되었는가?
 <body>
   <hr>
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
