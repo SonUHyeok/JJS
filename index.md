@@ -47,9 +47,9 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
 <body>
   <hr>
-  <img src = "images/3.png" style="display: block; margin: auto;">
-  <img src = "images/4.png" style="display: block; margin: auto;">
-  <img src = "images/5.png" style="display: block; margin: auto;">
+  <img src = "images/3.png" width="100", style="display: block; margin: auto;">
+  <img src = "images/4.png" width="100", style="display: block; margin: auto;">
+  <img src = "images/5.png" width="100", style="display: block; margin: auto;">
 </body>
 
 <br />
@@ -74,9 +74,7 @@ Click the button above to evaluate your model on the SIDL benchmark.
 
 ### 게임 다운로드 QR
 🤖 METRO:BOT을 미리 즐기고 싶다면? 지금 다운로드 받으세요! 🤖
-> 🌟안드로이드 기기 한정
-<br />
-> 🌟네트워크 연결 필수
+> 🌟 안드로이드 기기 한정, 네트워크 연결 필수 🌟
 <body>
   <hr>
   <img src = "images/8.png" style="display: block; margin: auto;">
