@@ -61,4 +61,7 @@ Click the button above to evaluate your model on the SIDL benchmark.
 
 
 ### 게임 다운로드 QR
-Coming soon
+<body>
+  <hr>
+  <img src = "images/8.png" style="display: block; margin: auto;">
+</body>
