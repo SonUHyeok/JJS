@@ -61,10 +61,10 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 ### 애니메이션 디자인
 <body>
   <hr>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
-    <img src="images/6.png" width="50%" alt="Image 6">
-    <img src="images/7.png" width="50%" alt="Image 7">
-  </div>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 1em;">
+  <img src="images/6.png" style="width: 50%;" alt="Image 6">
+  <img src="images/7.png" style="width: 50%;" alt="Image 7">
+</div>
 </body>
 <br />
 
