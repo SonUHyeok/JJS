@@ -40,18 +40,17 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 ### 메인 홈 화면
 홈 화면에서 좌측에는 메트로봇 로고와 우측에는 주인공 천일의 모습을 아스키아트로 변환한 이미지가 있습니다.
 그리고 컨티뉴, 뉴 게임, 옵션 등 게임 기능을 할 수 있는 버튼들이 배치되어있고, 상단에는 플레이어가 시나리오의 특정 부분으로 바로 넘어갈 수 있도록 검색창을 만들었습니다.
+
+<br />
+
+### 인게임 삽화
+직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
 <body>
   <hr>
   <img src = "images/3.png" style="display: block; margin: auto;">
   <img src = "images/4.png" style="display: block; margin: auto;">
   <img src = "images/5.png" style="display: block; margin: auto;">
 </body>
-
-
-<br />
-
-### 인게임 삽화
-직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
 
 <br />
 
