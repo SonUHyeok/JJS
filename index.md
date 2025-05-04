@@ -74,8 +74,8 @@ Click the button above to evaluate your model on the SIDL benchmark.
 
 ### 게임 다운로드 QR
 🤖 METRO:BOT을 미리 즐기고 싶다면? 지금 다운로드 받으세요! 🤖
-🌟안드로이드 기기 한정
-🌟네트워크 연결 필수
+> 🌟안드로이드 기기 한정
+> 🌟네트워크 연결 필수
 <body>
   <hr>
   <img src = "images/8.png" style="display: block; margin: auto;">
