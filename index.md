@@ -37,20 +37,21 @@ Figma: "https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%E
 <br />
 
 ## 게임 설명
-세부적인 게임 설명
 ### 메인 홈 화면
 홈 화면에서 좌측에는 메트로봇 로고와 우측에는 주인공 천일의 모습을 아스키아트로 변환한 이미지가 있습니다.
 그리고 컨티뉴, 뉴 게임, 옵션 등 게임 기능을 할 수 있는 버튼들이 배치되어있고, 상단에는 플레이어가 시나리오의 특정 부분으로 바로 넘어갈 수 있도록 검색창을 만들었습니다.
-<div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="https://drive.google.com/file/d/1es3rPo5Y9O96EjDVXanUY8NpaRprWH-h/view?usp=sharing" target="_blank">Train</a>
-  <a class="button is-primary" href="https://drive.google.com/file/d/1u5-MDauO3XolXsU6eOARwlXo7SnpLwqA/view?usp=sharing" target="_blank">Validation</a>
-  <a class="button is-primary" href="https://drive.google.com/file/d/1-SFyyjH0G3C68OfDjZ_O7M4mOqkcJdEf/view?usp=sharing" target="_blank">Test</a>
-</div>
+<body>
+  <hr>
+  <img src = "images/3.png" style="display: block; margin: auto;">
+  <img src = "images/4.png" style="display: block; margin: auto;">
+  <img src = "images/5.png" style="display: block; margin: auto;">
+</body>
+
 
 <br />
 
 ### 인게임 삽화
-백선희 팀원이 직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높였습니다
+직접 손수 찍어낸 도트 아트로 게임에 이해도와 몰입감을 높인 도트 아트 (made by. 백선희)
 
 <br />
 
@@ -73,6 +74,9 @@ Click the button above to evaluate your model on the SIDL benchmark.
 <br />
 
 ### 게임 다운로드 QR
+🤖 METRO:BOT을 미리 즐기고 싶다면? 지금 다운로드 받으세요! 🤖
+🌟안드로이드 기기 한정
+🌟네트워크 연결 필수
 <body>
   <hr>
   <img src = "images/8.png" style="display: block; margin: auto;">
