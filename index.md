@@ -1,6 +1,6 @@
 ## 👥 작품 및 팀 정보
 
-  | Genre | TEAM | Authors 1 | Authors 2 | Authors 3 | Affiliations | Figma |
+  | Genre | TEAM | Authors 1 | Authors 2 | Authors 3 | Affiliations | Instagram |
   | --- | --- | --- | --- | --- | --- | --- |
   | Game | 전졸시 (전지적 졸업 시점) | 백선희 (게임, 애니메이션 삽화 제작) | 손우혁 (스토리 기획, 게임 개발) | 황애라 (PM, 게임 UX/UI 디자인) | Soongsil University | [METRO:BOT Instagram](https://www.instagram.com/metro_bot.game/) |
 
