@@ -2,7 +2,7 @@
 
   | Genre | TEAM | Authors 1 | Authors 2 | Authors 3 | Affiliations | Figma |
   | --- | --- | --- | --- | --- | --- | --- |
-  | Game | 전졸시 (전지적 졸업 시점) | 백선희 (게임, 애니메이션 삽화 제작) | 손우혁 (스토리 기획, 게임 개발) | 황애라 (PM, 게임 UX/UI 디자인) | Soongsil University | [METRO:BOT UI Design](https://www.figma.com/design/N2aT2N3sOJcUOOFSsCDPEZ/%EB%94%94%EC%9E%90%EC%9D%B8?node-id=779-232&t=xaIZoRMNblZIWJmT-1) |
+  | Game | 전졸시 (전지적 졸업 시점) | 백선희 (게임, 애니메이션 삽화 제작) | 손우혁 (스토리 기획, 게임 개발) | 황애라 (PM, 게임 UX/UI 디자인) | Soongsil University | [METRO:BOT Instagram](https://www.instagram.com/metro_bot.game/) |
 
 <body>
   <hr>
